@@ -38,7 +38,7 @@ improve_content: https://github.com/ImagingDataCommons/imagingdatacommons.github
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ImagingDataCommons.github.io/images/'
+urlimg: 'https://fedorov.github.io/idc-feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
