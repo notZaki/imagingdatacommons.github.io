@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: crdc-cloud-idc.jpg
+  image_fullwidth: crdc-cloud.jpg
 
 widget1:
   title: "Open community"
