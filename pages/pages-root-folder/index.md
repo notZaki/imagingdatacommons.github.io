@@ -15,7 +15,7 @@ widget1:
   contributed by the community, integrated with the data from other domains.'
 widget2:
   title: "Metadata"
-  image: widget-1-302x182.jpg
+  image: catalog.jpg
   text: 'IDC will aim to implement best practices for managing metadata associated with the images to support
   integration and interoperability.'
 widget3:
