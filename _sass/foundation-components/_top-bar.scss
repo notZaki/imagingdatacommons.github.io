@@ -168,11 +168,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       form,
       input { margin-bottom: 0; }
 
-      input { 
-        height: $topbar-input-height; 
-        padding-top: .35rem; 
-        padding-bottom: .35rem; 
-        font-size: $topbar-button-font-size; 
+      input {
+        height: $topbar-input-height;
+        padding-top: .35rem;
+        padding-bottom: .35rem;
+        font-size: $topbar-button-font-size;
       }
 
       .button, button {
@@ -403,6 +403,8 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       .dropdown {
         padding: 0;
         position: absolute;
+        -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2);
+        box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
         #{$default-float}: 100%;
         top: 0;
         z-index: 99;
