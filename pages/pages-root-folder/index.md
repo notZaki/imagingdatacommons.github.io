@@ -10,7 +10,7 @@ header:
 
 widget1:
   title: "Open community"
-  image: friends.jpg
+  image: friends2.jpg
   text: 'IDC will host publicly available datasets, extensible with the annotations and analysis results
   contributed by the community, integrated with the data from other domains.'
 widget2:
