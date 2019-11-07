@@ -17,7 +17,7 @@ slogan: 'Connecting imaging researchers with data and computing resources on the
 description: 'This is the homepage for the consortium developing the NCI Imaging Data Commons.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>NCI Imaging Data Commons consortium is supported by the contract number 19X037Q from Leidos Biomedical Research under Task Order HHSN26100071 from NCI.</p><p>This website is based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme.</p>'
+credits: '<p>NCI Imaging Data Commons consortium is supported by the contract number 19X037Q from Leidos Biomedical Research under Task Order HHSN26100071 from NCI.</p><p>This website is based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme.</p><p>Imaging Data Commons logo designed by <a href="https://www.mcgill.ca/medphys/academic/current-students/zaki-ahmed">Zaki Ahmed</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
