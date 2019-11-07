@@ -14,6 +14,7 @@ The members and leadership of the IDC consortium are:
 * [Institute for Systems Biology](https://systemsbiology.org/): William Longabaugh and Ilya Shmulevich, Ph.D.
 * [General Dynamics IT](https://www.gd.com/): David Pot, Ph.D.
 * [Isomics Inc.](http://isomics.com/): Steve Pieper, Ph.D.
+* [Radical Imaging](http://radicalimaging.com/): Rob Lewis
 * [Fraunhofer MEVIS](https://www.mevis.fraunhofer.de/):  André Homeyer, Ph.D.
 * [PixelMed Publishing](https://www.pixelmed.com/): David Clunie, M.D.
 * [Computational Imaging and Bioinformatics Laboratory](http://www.cibl-harvard.org/) at [Brigham and Women’s Hospital Department of Radation Oncology](https://www.brighamandwomens.org/radiation-oncology) and [Harvard Medical School](https://hms.harvard.edu/): Hugo Aerts, Ph.D.
