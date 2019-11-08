@@ -45,5 +45,5 @@ permalink: /index.html
 homepage: true
 
 preamble:
-  text: We are the consortium building the NCI Imaging Data Commons (IDC) - a cloud-based resource within [NCI Cancer Research Data Commons (CRDC)](https://datascience.cancer.gov/data-commons) that connects researchers with cancer imaging datasets, resources for exploring those datasets and identifying relevant cohorts, and other components of CRDC that will host additional data types and support computation on the defined cohorts.
+  text: We are the consortium building the NCI Imaging Data Commons (IDC) - a cloud-based resource within NCI Cancer Research Data Commons (CRDC) that connects researchers with cancer imaging datasets, resources for exploring those datasets and identifying relevant cohorts, and other components of CRDC that will host additional data types and support computation on the defined cohorts.
 ---
