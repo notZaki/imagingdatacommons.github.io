@@ -10,10 +10,10 @@
   url: "/team/"
   side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
-- title: "Contact"
-  url: "http://forms.gle/kWpebkVphimJanv77"
-  side: right
+#- title: "Contact"
+#  url: "https://forms.gle/kWpebkVphimJanv77"
+#  side: right
