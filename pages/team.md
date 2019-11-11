@@ -4,8 +4,6 @@ title: "Imaging Data Commons consortium"
 subheadline: ""
 teaser: "We are multi-disciplinary team with expertise in imaging research, software engineering and open source, security and cloud technology."
 permalink: "/team/"
-header:
-    image_fullwidth: ""
 ---
 
 The members and leadership of the IDC consortium are:
