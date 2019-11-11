@@ -4,8 +4,6 @@ title: "Bringing imaging to the NCI Data Commons"
 subheadline: "What? Why? When?"
 teaser: "The IDC will join the Genomics Data Commons (GDC) and Proteomics Data Commons (PDC) as the newest component of the NCI Cancer Research Data Commons (CRDC)."
 permalink: "/info/"
-header:
-    image_fullwidth: ""
 ---
 
 While we work to populate this page with more details, the slides below provide an introduction

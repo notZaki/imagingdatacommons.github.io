@@ -69,16 +69,16 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: $just-white;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: $just-white;
 }
 #masthead-with-text {
     text-align: center;
     font-size: rem-calc(54);
     font-family: $header-font-family;
-    color: #fff;
+    color: $primary-color;
     text-transform: uppercase;
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
